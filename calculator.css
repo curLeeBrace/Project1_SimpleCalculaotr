@@ -35,11 +35,7 @@ body
    
 }
 
-#output
-{
-    flex-basis: 20%;
- 
-}
+
 #buttons
 {
    flex-basis: 80%;
@@ -59,8 +55,11 @@ body
     
 }
 
-#output
+#output-container
 {
+
+    flex-basis: 20%; 
+
     color: white;
     font-size: 3em;
 
